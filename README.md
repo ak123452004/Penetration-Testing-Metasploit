@@ -73,12 +73,12 @@ No external Python packages are required.
 ```text
 Penetration-Testing-Metasploit/
 │
+├── .gitignore
+├── README.md
 ├── main.py
-├── scanner.py
 ├── report.py
 ├── requirements.txt
-├── README.md
-├── .gitignore
+├── scanner.py
 └── reports/
     └── security_report.txt
 ```
